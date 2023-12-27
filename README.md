@@ -1,2 +1,3 @@
 # Tutoring_Python
-Tutoring Python for students as a part of Artificial Intelligence Program provided by KAUST Academy &amp; SDAIA
+
+Tutoring introduction to Python for students is a part of the Artificial Intelligence Program provided by KAUST Academy & SDAIA.
